@@ -1,3 +1,7 @@
+# Angular 4 Sample APP
+
+This source code is part of tutorial[Getting Started Angular 4 using Angular CLI](https://www.djamware.com/post/58d9a49b80aca7105ed7d3f7/getting-started-angular-4-using-angular-cli)
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
